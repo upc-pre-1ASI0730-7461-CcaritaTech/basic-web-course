@@ -114,14 +114,14 @@ Este curso de 60 minutos introduce a estudiantes a los conceptos fundamentales d
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-1ASI0730-7461-CcaritaTech/basic-web-course)
 - **Todas las Actividades Prácticas**:
-| Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 1 | Explorar HTML/CSS | [CodePen](https://codepen.io/pen/) |
-| 2 | Esqueleto HTML | [CodePen](https://codepen.io/pen/?template=WNbjWJp) |
-| 3 | Añadir Contenido a tu página | [CodePen](https://codepen.io/pen/?template=WNbjWJp) |
-| 4 | Aprendiendo CSS | [Sandbox](https://codesandbox.io/) & [Flexbox Froggy](https://flexboxfroggy.com/#es) |
-| 5 | Proyecto: Página de Perfil | [Sandbox](https://codesandbox.io/) & [Ver Proyecto](https://codesandbox.io/p/sandbox/3jrmmv) |
-| 6 | Refactorizar Código | [Sandbox](https://codesandbox.io/) |
+  | Lección # | Actividad | Empezar a Programar |
+  |----------|-----------|---------------------|
+  | 1 | Explorar HTML/CSS | [CodePen](https://codepen.io/pen/) |
+  | 2 | Esqueleto HTML | [CodePen](https://codepen.io/pen/?template=WNbjWJp) |
+  | 3 | Añadir Contenido a tu página | [CodePen](https://codepen.io/pen/?template=WNbjWJp) |
+  | 4 | Aprendiendo CSS | [Sandbox](https://codesandbox.io/) & [Flexbox Froggy](https://flexboxfroggy.com/#es) |
+  | 5 | Proyecto: Página de Perfil | [Sandbox](https://codesandbox.io/) & [Ver Proyecto](https://codesandbox.io/p/sandbox/3jrmmv) |
+  | 6 | Refactorizar Código | [Sandbox](https://codesandbox.io/) |
 
 - **Compartir**: #CcaritaTechWeb
 
