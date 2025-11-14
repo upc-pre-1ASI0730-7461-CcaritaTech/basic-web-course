@@ -8,6 +8,7 @@
 ### Introduction to Html & Css Course
 ### PROFESOR: Velasquez Nuñez Angel Augusto
 ### NRC: 7461
+### 1ASI0730
 ## INFORME TRABAJO COMPLEMENTARIO
 
 
@@ -54,6 +55,7 @@
 ---
 
 ### 2025-20
+
 
 </div>
 
@@ -141,5 +143,5 @@ NRC 7461
 - Jean Niels Arizabal Condori
 - Yeira Shari Huaman Olivos
 - Brayan Roberto Ccarita Cruz
-- 
+
 **Fecha de entrega**: 13-11-2025
